@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda environment files
+*.conda
+*.env
+*.venv
+env/
+venv/
+emoji_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+build/
+dist/
+*.egg-info/
+
+# Tkinter and Pillow cache files
+*.db
+*.png
+*.jpg
+
+# Model files and datasets (optional – include only if large or sensitive)
+*.h5
+*.json
+*.xml
+
+# Logs and output
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode or other IDE folders
+.vscode/
+.idea/
+
+# Environment config
+.env
+.env.*
